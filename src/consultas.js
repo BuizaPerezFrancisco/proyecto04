@@ -267,7 +267,7 @@ db.productos.aggregate([{
 
 
 /*
-El cliente David Ballesteros quiere pagar todos los pedidos a plazos, con un interes del 5%.
+El cliente Andres Mariscal quiere pagar todos los pedidos a plazos, con un interes del 5%.
 Hará el pago en 3 cuotas. Queremos saber cuanto tendra que pagar en cada cuota.
 */
 db.productos.aggregate([{
